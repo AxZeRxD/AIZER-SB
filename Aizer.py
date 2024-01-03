@@ -395,5 +395,5 @@ async def leave(ctx, guild_id: int):
 
 
 
-token = ""
+token = "MTEzMjY0MTcxNjA1NTMyNjgxMQ.GHgEic.rNXKZtNA5yYfqGVaTilEY2Ctddtj7BFv20nFXw"
 client.run(token,bot=False)
